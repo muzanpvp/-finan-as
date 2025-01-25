@@ -1,2 +1,2 @@
-# -finan-as
+# -finanças
 Aplicação Desktop para gestão financeira. 
